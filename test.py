@@ -8,3 +8,6 @@ edad = datetime.datetime.now().year - fecha_nacimiento.year
 # Imprime la edad calculada
 
 print("Tu edad es:", edad)
+
+
+db_url_prueba = "mysql+pymysql://root:test@127.0.0.1:3306/esquema"
