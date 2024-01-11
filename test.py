@@ -11,3 +11,4 @@ print("Tu edad es:", edad)
 
 
 db_url_prueba = "mysql+pymysql://root:test@127.0.0.1:3306/esquema"
+hola a todos 
